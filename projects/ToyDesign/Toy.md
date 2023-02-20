@@ -1,10 +1,10 @@
-#Toy Design
+# Toy Design
 
-##What was this project about?
+## What was this project about?
 
 Research toy market and trends. Choose an age group and target market to design a toy that has higher play value. 
 
-##What did I realize?
+## What did I realize?
 
 * Analyzing a toy from the structure (how to use, feedback, mechanism and purpose) helps in creating variations.
 * Prototyping and failing fast is important.
@@ -18,7 +18,7 @@ Research toy market and trends. Choose an age group and target market to design 
 
 * A 6 year old Child: I love the patterns that I made. I had lots of fun!
 
-##What did I do?
+## What did I do?
 
 I analyzed toys from my childhood and other popular toys using few frameworks (use, feedback, mechanism and purpose) to understand them. Using the fundamental questioning I got a sense of different types of toys and who they are positioned for. 
 
