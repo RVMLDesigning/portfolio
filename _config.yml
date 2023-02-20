@@ -1,0 +1,42 @@
+title: RVML Designing
+description: Portfolio
+show_downloads: false
+
+theme: jekyll-theme-architect
+
+github:
+  is_project_page: false
+
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+  highlighter: none
+
+
+collections_dir: projects
+
+collections:
+  qotd:
+    output: true
+    title: true
+    permalink: /:collection/:path
+  music:
+    output: true
+    title: true
+    permalink: /:collection/:path
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "qotd" # a collection in your site, in plural form
+    values:
+      layout: "qotd"
+  -
+    scope:
+      path: ""
+      type: "music" # a collection in your site, in plural form
+    values:
+      layout: "music"      
