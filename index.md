@@ -13,5 +13,5 @@ This site is collection of projects that I have done over the last few years.
 
 * Packaging Design: [Popcorn](projects/PackageDesign/Tequila/), [Tequila](projects/PackageDesign/Popcorn/)
 
-* [Toy Design](projectss/ToyDesign/)
+* [Toy Design](projects/ToyDesign/)
 
