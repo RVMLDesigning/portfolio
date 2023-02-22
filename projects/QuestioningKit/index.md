@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Questioning Kit
-tags: [toys, play, learn, practice, portfolio]
 ---
 
 <div markdown="0" class="grid-container">

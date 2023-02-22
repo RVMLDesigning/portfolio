@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Play Booklets
-tags: [play, learn, practice, portfolio]
 ---
 
 <div markdown="0" class="grid-container">

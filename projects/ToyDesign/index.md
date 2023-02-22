@@ -2,6 +2,7 @@
 layout: project
 title: Toy Design
 tags: [toys, play, art, portfolio]
+images: ['render.png', 'playtesting-1.png', 'playtesting-2.png']
 ---
 <div markdown="0" class="grid-container">
 	<div class="grid-child">

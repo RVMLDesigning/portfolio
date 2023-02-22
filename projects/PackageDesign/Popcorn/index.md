@@ -1,7 +1,6 @@
 ---
 layout: project
 title: Packaging - Popcorn
-tags: [package, portfolio]
 ---
 
 <div markdown="0" class="grid-container">
