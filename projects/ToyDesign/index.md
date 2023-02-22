@@ -4,7 +4,7 @@ title: Toy Design
 ---
 # Toy Design
 
-![TopArt poster](artifacts/Poster-ToyDesign.png){:width="300", :height="464"}
+![TopArt poster](artifacts/Poster-ToyDesign.png){:width="300" height="464"}
 
 ## What was this project about?
 
