@@ -7,7 +7,7 @@ title: Packaging: Tequila
 
 
 ## What was this project about?
-
+The client is about to launch a new special edition tequila into the Canadian marketplace. The product is aimed at a younger audience to be consumed while hanging out with friend,s pre-dinner or while watching sports at home. The intent is to design a packaging for this project.
 
 
 ## What did I realize?
@@ -17,6 +17,8 @@ title: Packaging: Tequila
 * Articulating ideas and listening, noting down ideas is very important.
 
 ## Feedback
+
+* Professor: Great work! Nice work on the typoe -- kind of classic but the copper adds a nice toucch and definitely has quiality ssophhisticated feel - could be edgier.
 
 ## What did I do?
 

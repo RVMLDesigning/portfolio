@@ -1,3 +1,8 @@
+---
+layout: custom
+title: Play Booklets
+---
+
 # Play Booklet series 
 
 
