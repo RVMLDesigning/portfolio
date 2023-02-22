@@ -7,7 +7,7 @@ title: Packaging - Popcorn
 
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
-    	<img src="artifacts/SKU-1.png" width="300" height="464"/>
+    	<img src="artifacts/SKU-1.png" width="300" height="317"/>
 	</div>
 	<div class="grid-child">
 		<h2>What was this project about?</h2>

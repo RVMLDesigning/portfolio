@@ -6,7 +6,7 @@ title: Packaging - Tequila
 # Tequila - 55 Patron
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
-    	<img src="artifacts/Tequila.png" width="300" height="464"/>
+    	<img src="artifacts/Tequila.png" width="300" height="288"/>
 	</div>
 	<div class="grid-child">
 		<h2>What was this project about?</h2>
