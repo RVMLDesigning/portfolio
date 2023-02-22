@@ -4,6 +4,8 @@ title: Toy Design
 ---
 # Toy Design
 
+![TopArt](artifacts/Poster-ToyDesign.png =300x464)
+
 ## What was this project about?
 
 Research toy market and trends. Choose an age group and target market to design a toy that has higher play value. 
