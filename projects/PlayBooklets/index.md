@@ -5,16 +5,21 @@ title: Play Booklets
 
 # Play Booklet series 
 
-
-## What was this project about?
-The intent was to create a play book (Practice through Play) that one engages through play all the while practicing essential skills. 
-
-
-## What did I realize?
-
-* Designing experience that encourages play and leads to learning is challenging.
-* Play testing the creations was fun and led to lots of insights.
-* Feedback from families and children was encouraging that this series has potential.
+<div markdown="0" class="grid-container">
+	<div class="grid-child">
+    	<img src="artifacts/Poster-ToyDesign.png" width="300" height="464"/>
+	</div>
+	<div class="grid-child">
+		<h2>What was this project about?</h2>
+		<p>The intent was to create a play book (Practice through Play) that one engages through play all the while practicing essential skills. </p>
+		<h2>What did I realize?</h2>
+		<ul>
+			<li>Designing experience that encourages play and leads to learning is challenging.</li>
+			<li>Play testing the creations was fun and led to lots of insights.</li>
+			<li>Feedback from families and children was encouraging that this series has potential.</li>
+		</ul>
+	</div>
+</div>
 
 ## Feedback
 * Founder:  She is a hard worker, open to changes and is flexible. She worked with me to determine the brief - reframing what it could be better. The final design was to my satisfaction.

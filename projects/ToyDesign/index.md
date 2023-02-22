@@ -4,18 +4,24 @@ title: Toy Design
 ---
 # Toy Design
 
-![TopArt poster](artifacts/Poster-ToyDesign.png){:width="300" height="464"}
+<div markdown="0" class="grid-container">
+	<div class="grid-child">
+    	<img src="artifacts/Poster-ToyDesign.png" width="300" height="464"/>
+	</div>
+	<div class="grid-child">
+		<h2>What was this project about?</h2>
+		<p>Research toy market and trends. Choose an age group and target market to design a toy that has higher play value. </p>
+		<h2>What did I realize?</h2>
+		<ul>
+			<li>Analyzing a toy from the structure (how to use, feedback, mechanism and purpose) helps in creating variations.</li>
+			<li>Prototyping and failing fast is important.</li>
+			<li>Creating a first version makes things concrete for all.</li>
+			<li>Testing and revising is essential.</li>
+		</ul>
 
-## What was this project about?
+	</div>
+</div>
 
-Research toy market and trends. Choose an age group and target market to design a toy that has higher play value. 
-
-## What did I realize?
-
-* Analyzing a toy from the structure (how to use, feedback, mechanism and purpose) helps in creating variations.
-* Prototyping and failing fast is important.
-* Creating a first version makes things concrete for all.
-* Testing and revising is essential.
 
 ## Feedback
 * Professor: I like that you prototyped extensively and iterated your designs. Thanks again for your impressive effort, attention and your key reflections!

@@ -7,11 +7,11 @@ title: RVML Designing
 
 This site is collection of projects that I have done over the last few years.
 
-* [Questioning Kit](projects/ToyDesign/)
+* [Questioning Kit](projects/QuestioningKit/)
 
 * [Play Booklets](projects/PlayBooklets/)
 
-* Packaging Design: [Popcorn](projects/PackageDesign/Tequila/), [Tequila](projects/PackageDesign/Popcorn/)
+* Packaging Design: [Popcorn](projects/PackageDesign/Popcorn/), [Tequila](projects/PackageDesign/Tequila/)
 
 * [Toy Design](projects/ToyDesign/)
 

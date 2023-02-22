@@ -6,15 +6,21 @@ title: Questioning Kit
 # Questioning Kit
 
 
-## What was this project about?
-Questioning is a skill essential for all. We are all born with questioning that slowly vanishes as we go through school, college and finally join workforce. The project aims to create a hands-on tool to enable practice of questioning through play.
-
-
-## What did I realize?
-
-* Generating multiple options is useful.
-* Questioning with the client to understand better is essential.
-* Play testing and using a thing I created felt good.
+<div markdown="0" class="grid-container">
+	<div class="grid-child">
+    	<img src="artifacts/Poster-ToyDesign.png" width="300" height="464"/>
+	</div>
+	<div class="grid-child">
+		<h2>What was this project about?</h2>
+		<p>Questioning is a skill essential for all. We are all born with questioning that slowly vanishes as we go through school, college and finally join workforce. The project aims to create a hands-on tool to enable practice of questioning through play.</p>
+		<h2>What did I realize?</h2>
+		<ul>
+			<li>Generating multiple options is useful.</li>
+			<li>Questioning with the client to understand better is essential.</li>
+			<li>Play testing and using a thing I created felt good.</li>
+		</ul>
+	</div>
+</div>
 
 
 ## Feedback

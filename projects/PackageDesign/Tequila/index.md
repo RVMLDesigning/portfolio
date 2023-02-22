@@ -1,20 +1,24 @@
 ---
 layout: custom
-title: Packaging: Tequila
+title: Packaging - Tequila
 ---
 
 # Tequila - 55 Patron
-
-
-## What was this project about?
-The client is about to launch a new special edition tequila into the Canadian marketplace. The product is aimed at a younger audience to be consumed while hanging out with friend,s pre-dinner or while watching sports at home. The intent is to design a packaging for this project.
-
-
-## What did I realize?
-
-* Good design is minimal. Keep it simple. 
-* Understanding and communicating with the client at every stage is important.
-* Articulating ideas and listening, noting down ideas is very important.
+<div markdown="0" class="grid-container">
+	<div class="grid-child">
+    	<img src="artifacts/Tequila.png" width="300" height="464"/>
+	</div>
+	<div class="grid-child">
+		<h2>What was this project about?</h2>
+		<p>The client is about to launch a new special edition tequila into the Canadian marketplace. The product is aimed at a younger audience to be consumed while hanging out with friend,s pre-dinner or while watching sports at home. The intent is to design a packaging for this project.</p>
+		<h2>What did I realize?</h2>
+		<ul>
+			<li>Good design is minimal. Keep it simple.</li>
+			<li>Understanding and communicating with the client at every stage is important.</li>
+			<li>Articulating ideas and listening, noting down ideas is very important.</li>
+		</ul>
+	</div>
+</div>
 
 ## Feedback
 

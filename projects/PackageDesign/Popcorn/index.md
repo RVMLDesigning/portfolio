@@ -1,20 +1,25 @@
 ---
 layout: custom
-title: Packaging: Popcorn
+title: Packaging - Popcorn
 ---
 
 # Popcorn Packaging - Poppt! Lays
 
-
-## What was this project about?
-Visit stores to observe existing offerings in snack (popcorn) market. Design a packaging (face panels) with logo for Lays to sell their new line of Popcorn snacks with interesting flavours. These packages must be design forward and the product will be more upscale. 
-
-## What did I realize?
-
-* Weekly showcase and seeking early feedback helps.
-* One needs to keenly listen to the client and demonstrate that feedback has been incorporated.
-* Communication skills are essential.
-* Iterations are key to get the best work.
+<div markdown="0" class="grid-container">
+	<div class="grid-child">
+    	<img src="artifacts/SKU-1.png" width="300" height="464"/>
+	</div>
+	<div class="grid-child">
+		<h2>What was this project about?</h2>
+		<p>Design a packaging (face panels) with logo for Lays to sell their new line of Popcorn snacks with interesting flavours. These packages must be design forward and the product will be more upscale. </p>
+		<h2>What did I realize?</h2>
+		<ul>
+			<li>Weekly showcase and seeking early feedback helps.</li>
+			<li>One needs to keenly listen to the client and demonstrate that feedback has been incorporated.</li>
+			<li>Iterations are key to get the best work.</li>
+		</ul>
+	</div>
+</div>
 
 ## Feedback
 
