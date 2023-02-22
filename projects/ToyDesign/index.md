@@ -1,9 +1,8 @@
 ---
-layout: custom
+layout: project
 title: Toy Design
+tags: [toys, play, art, portfolio]
 ---
-# Toy Design
-
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
     	<img src="artifacts/Poster-ToyDesign.png" width="300" height="464"/>
@@ -25,9 +24,7 @@ title: Toy Design
 
 ## Feedback
 * Professor: I like that you prototyped extensively and iterated your designs. Thanks again for your impressive effort, attention and your key reflections!
-
 * Parent: Thank you for sharing this with my family! My children spent hours playing with it creating patterns and trying out different things.
-
 * A 6 year old Child: I love the patterns that I made. I had lots of fun!
 
 ## What did I do?

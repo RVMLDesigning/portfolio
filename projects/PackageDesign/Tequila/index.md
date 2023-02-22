@@ -1,9 +1,9 @@
 ---
-layout: custom
+layout: project
 title: Packaging - Tequila
+tags: [package, portfolio]
 ---
 
-# Tequila - 55 Patron
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
     	<img src="artifacts/Tequila.png" width="300" height="288"/>

@@ -1,9 +1,8 @@
 ---
-layout: custom
+layout: project
 title: Play Booklets
+tags: [play, learn, practice, portfolio]
 ---
-
-# Play Booklet series 
 
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
@@ -23,7 +22,6 @@ title: Play Booklets
 
 ## Feedback
 * Founder:  She is a hard worker, open to changes and is flexible. She worked with me to determine the brief - reframing what it could be better. The final design was to my satisfaction.
-
 * Parent: The series was vey interesting way to introduce my children to different concepts. My children enjoyed the series and learnt a lot through the process.
 
 

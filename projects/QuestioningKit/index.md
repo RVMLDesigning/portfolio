@@ -1,10 +1,8 @@
 ---
-layout: custom
+layout: project
 title: Questioning Kit
+tags: [toys, play, learn, practice, portfolio]
 ---
-
-# Questioning Kit
-
 
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
@@ -25,11 +23,8 @@ title: Questioning Kit
 
 ## Feedback
 * Founder:  She worked with me to understand how I wanted the kit to be. Her questions helped me think and express things better. Her attention to detail, whether it is in prototyping quickly or testing thoroughly, is helpful. The sketches she showed me and final designs were to my satisfaction. 
-
 * Parent: The kit is a nice idea. The family game was fun and we played few rounds. I think my 4 year old and 6 year old will love this.
-
 * 13 year old child: I love this kit as I can print and decorate it the way I want. I enjoyed playing games with my family and use it for my reflections at the end of week at school.
-
 * Adult in IT industry: I printed and tried using stickies. I realized that I can generate lot more questions quickly. This helps me a lot!
 
 

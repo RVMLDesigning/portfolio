@@ -1,5 +1,5 @@
 
-title: RVML Designing
+title: RVML Designing - My Portfolio
 show_downloads: false
 remote_theme: pages-themes/cayman@v0.2.0
 description: >- # this means to ignore newlines until "baseurl:"
@@ -8,7 +8,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "https://rvmldesigning.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-remote_theme: pages-themes/cayman@v0.2.0
+#remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: ahmadajmi/type
 plugins:
   - jekyll-remote-theme
 
