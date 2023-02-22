@@ -1,3 +1,7 @@
+---
+layout: custom
+title: Toy Design
+---
 # Toy Design
 
 ## What was this project about?

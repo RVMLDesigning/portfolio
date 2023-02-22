@@ -1,3 +1,8 @@
+---
+layout: custom
+title: Packaging: Tequila
+---
+
 # Tequila - 55 Patron
 
 
