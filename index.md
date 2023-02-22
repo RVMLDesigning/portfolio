@@ -1,6 +1,6 @@
 ---
 layout: custom
-title: About
+title: RVML Designing
 ---
 
 # About
