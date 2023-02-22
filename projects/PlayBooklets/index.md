@@ -7,7 +7,7 @@ title: Play Booklets
 
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
-    	<img src="artifacts/Poster-ToyDesign.png" width="300" height="464"/>
+    	<img src="artifacts/WhatIf-PlayBooklet.png" width="300" height="205"/>
 	</div>
 	<div class="grid-child">
 		<h2>What was this project about?</h2>
