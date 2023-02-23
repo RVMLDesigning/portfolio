@@ -4,6 +4,7 @@ title: Toy Design
 tags: [toys, play, art, portfolio]
 images: ['render.png', 'playtesting-1.png', 'playtesting-2.png']
 ---
+
 <div markdown="0" class="grid-container">
 	<div class="grid-child">
     	<img src="artifacts/Poster-ToyDesign.png" width="300" height="464"/>
@@ -20,6 +21,10 @@ images: ['render.png', 'playtesting-1.png', 'playtesting-2.png']
 		</ul>
 
 	</div>
+</div>
+
+<div markdown="0">
+   {% include carousel.html height="50" unit="%" duration="7" number="1" %}
 </div>
 
 

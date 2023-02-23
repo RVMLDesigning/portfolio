@@ -20,8 +20,8 @@ title: Play Booklets
 </div>
 
 ## Feedback
-* Founder:  She is a hard worker, open to changes and is flexible. She worked with me to determine the brief - reframing what it could be better. The final design was to my satisfaction.
-* Parent: The series was vey interesting way to introduce my children to different concepts. My children enjoyed the series and learnt a lot through the process.
+* _Founder_:  I see you as hard working and open to feedback. You worked with me to determine the what I had in mind and helped me articulate it better. The final design was to my satisfaction.
+* _Parent_: The series was vey interesting way to introduce my children to different concepts. My children enjoyed the series and learnt a lot through the process.
 
 
 ## What did I do?

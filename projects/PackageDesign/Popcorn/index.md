@@ -21,9 +21,9 @@ title: Packaging - Popcorn
 
 ## Feedback
 
-* Professor: You did a great job every week by showcasing your work. You listened and took the feedback to refine. Great designers are great listeners. Remember to keep things simple -- too much coming at people these days. Nice color palette.
-* Retail shop owner: I think this will stand out well in my shop.
-* Retail shopper: I love the look and it is inviting.
+* _Professor_: You did a great job every week by showcasing your work. You listened and took the feedback to refine. Great designers are great listeners. Remember to keep things simple -- too much coming at people these days. Nice color palette.
+* _Retail shop owner_: I think this will stand out well in my shop.
+* _Retail shopper_: I love the look and it is inviting.
 
 
 ## What did I do?

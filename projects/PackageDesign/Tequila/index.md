@@ -21,7 +21,7 @@ title: Packaging - Tequila
 
 ## Feedback
 
-* Professor: Great work! Nice work on the typoe -- kind of classic but the copper adds a nice toucch and definitely has quiality ssophhisticated feel - could be edgier.
+* _Professor_: Great work! Nice work on the typoe -- kind of classic but the copper adds a nice toucch and definitely has quiality ssophhisticated feel - could be edgier.
 
 ## What did I do?
 
