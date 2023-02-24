@@ -2,7 +2,6 @@
 layout: project
 title: Toy Design
 tags: [toys, play, art, portfolio]
-images: ['render.png', 'playtesting-1.png', 'playtesting-2.png']
 ---
 
 <div markdown="0" class="grid-container">
@@ -22,11 +21,6 @@ images: ['render.png', 'playtesting-1.png', 'playtesting-2.png']
 
 	</div>
 </div>
-
-<div markdown="0">
-   {% include carousel.html height="50" unit="%" duration="7" number="1" %}
-</div>
-
 
 ## Feedback
 * Professor: I like that you prototyped extensively and iterated your designs. Thanks again for your impressive effort, attention and your key reflections!
